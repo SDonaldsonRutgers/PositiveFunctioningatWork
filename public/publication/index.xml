@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | PERMA&#43;4 Lab</title>
+    <link>http://example.org/publication/</link>
+      <atom:link href="http://example.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Donaldson and Associates</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>http://example.org/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</title>
+      <link>http://example.org/publication/jwa/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/jwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</title>
+      <link>http://example.org/publication/jpp/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/jpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/publication/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Self-Report Bias in Workplace Research: Insights from Multitrait-Multimethod Analyses with Positive Work and Organizations Constructs</title>
+      <link>http://example.org/publication/mtmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/publication/mtmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
