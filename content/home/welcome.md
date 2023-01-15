@@ -2,7 +2,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
-title: "The Positive Functioning at Work Scale"
+title: "PERMA+4 Lab"
 design:
   show_interests: true
   show_role: true
