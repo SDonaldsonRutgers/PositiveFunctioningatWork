@@ -1,7 +1,7 @@
 ---
 title: "Dr. Scott I. Donaldson"
 
-role: Senior Research Scientist 
+role: Senior Researcher 
 
 social:
 - icon: google-scholar

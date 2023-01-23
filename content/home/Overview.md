@@ -10,9 +10,9 @@ headless: true
 weight: 7
 ---
 
-Expanding upon Seligman's (2018) PERMA model, the Positive Functioning at Work Scale (PF-W) provides nine measurable building blocks of well-being that can improve employee optimal functioning and work performance.
+The Drs. Donaldson developed and validated a nine dimensional measure of well-being called PERMA+4. Building on Seligman's PERMA model, PERMA+4 provides nine measurable building blocks of well-being that are shown to improve optimal functioning and performance.
 
-This website provides definitions for the PF-W model, publicly accessible publications, access to the scale and scoring methods, and current projects that are integrating positive functioning at work.
+This website provides definitions for each building block of PERMA+4, peer review publications, access to existing measures and scoring methods, and an outline of current and past projects that integrate PERMA+4.
 
 ## **P**ositive emotion---experiencing happiness, joy, love, gratitude, etc.
 
