@@ -8,8 +8,6 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=LcaWbSgAAAAJ
 
-
-
 user_groups:
 - Distinguished University Professor
 ---

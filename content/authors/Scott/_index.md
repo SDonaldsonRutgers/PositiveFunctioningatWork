@@ -16,7 +16,7 @@ social:
 superuser: yes
 
 user_groups:
-- Senior Research Scientist 
+- Senior Researcher 
 ---
 
 

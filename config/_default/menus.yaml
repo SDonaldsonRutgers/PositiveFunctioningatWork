@@ -7,24 +7,18 @@ main:
   - name: Overview
     url: '#welcome'
     weight: 5
-  - name: Definitions
-    url: '#Definitions'
+  - name: Featured
+    url: '#featured'
     weight: 10
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
-  - name: Use
-    url: '#Use'
-    weight: 30
-  - name: Scoring
-    url: '#Scoring'
-    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 50
+    weight: 30
   - name: Team
     url: '#people'
-    weight: 60
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 50

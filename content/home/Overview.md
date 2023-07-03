@@ -1,7 +1,8 @@
 ---
 widget: blank
 
-title: Building Blocks of Well-Being (PERMA+4)
+title: Welcome!  
+
 
 # This file represents a page section.
 headless: true
@@ -10,9 +11,13 @@ headless: true
 weight: 7
 ---
 
-The Drs. Donaldson developed and validated a nine dimensional measure of well-being called PERMA+4. Building on Seligman's PERMA model, PERMA+4 provides nine measurable building blocks of well-being that are shown to improve optimal functioning and performance.
+Dr. Stewart I. Donaldson and Dr. Scott I. Donaldson have developed measurement scales and practical tools to help researchers and practitioners assess, develop, and care for the PERMA+4 building blocks of well-being and positive functioning. Researchers and practitioners all across the globe are studying PERMA+4, and working with schools, universities, non-profit and for-profit organizations to develop and care for the building blocks of well-being, vitality, and positive functioning. The mission of the PERMA+4 collaborative is to develop a community that shares resources and scientific findings in an effort to promote more well-being and positive functioning worldwide. Please email [Stewart.Donaldson\@cgu.edu](mailto:Stewart.Donaldson@cgu.edu) if you or your organization would like to participate free of charge.
 
-This website provides definitions for each building block of PERMA+4, peer review publications, access to existing measures and scoring methods, and an outline of current and past projects that integrate PERMA+4.
+**PERMA+4 Building Blocks of Well-Being & Positive Functioning**
+
+Building on Professor Martin Seligman's PERMA model, PERMA+4 provides nine measurable building blocks of well-being that strongly predict optimal functioning and performance at work, school, and in life more generally. This website provides definitions for each building block, validated measurement scales, and peer reviewed publications showing the value of the PERMA+4 Framework.
+
+This website provides definitions for each building block, validated measurement scales, and peer reviewed publications showing the value of the PERMA+4 Framework.
 
 ## **P**ositive emotion---experiencing happiness, joy, love, gratitude, etc.
 

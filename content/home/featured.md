@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publications
+title: "Validated PERMA+4 Scales"
 subtitle: ""
 
 content:

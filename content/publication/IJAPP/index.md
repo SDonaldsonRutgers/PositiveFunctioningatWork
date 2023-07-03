@@ -1,12 +1,14 @@
 ---
-title: "The Positive Functioning at Work Scale"
+title: "The PERMA+4 Short Scale"
 
 # Authors
 authors:
 - Scott I. Donaldson
 - Stewart I. Donaldson
+- Michelle McQuaid
+- Peggy Kern
 
-date: "2021-01-11T00:00:00Z"
+date: "2023-06-19T00:00:00Z"
 doi: "https://doi.org/10.1007/s41543-020-00033-1"
 
 # Publication type.
@@ -30,7 +32,7 @@ links:
 - icon: screwdriver-wrench
   icon_pack: fa
   name: Scale Items
-  url: "https://drive.google.com/file/d/1VWQGq5TndThJlM4bCoJZ6JuQL9ZBm87F/view"
+  url: "https://docs.google.com/document/d/1M9k-M7Lj4dOCHxeRJYXEnfI4Aq0lq4KX/edit?usp=sharing&ouid=108160430506679007776&rtpof=true&sd=true"
   
-url_doi: 'https://doi.org/10.1007/s41543-020-00033-1'
+url_doi: 'https://doi.org/10.1007/s41042-023-00110-9'
 ---
