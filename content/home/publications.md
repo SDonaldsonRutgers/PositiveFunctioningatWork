@@ -39,5 +39,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+ [View all publications](./publication/).
 {{% /callout %}}
+
+Rigorous peer-reviewed scientific studies have shown that PERMA and PERMA+4 strongly predict well-being, vitality, and positive functioning at work, school, and life in general. If you would like to learn more about the science supporting the PERMA+4 framework, Stewart.Donaldson@cgu.edu would be happy to email you any of the articles listed below that you would like to read.
